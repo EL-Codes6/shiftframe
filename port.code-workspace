@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../VIDEO EDITING PORT/videos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "port",
+		"liveServer.settings.port": 5501
+	}
+}
